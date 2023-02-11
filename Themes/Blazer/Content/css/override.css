@@ -1,0 +1,230 @@
+/* commons */
+body {
+    padding-top: 57px;
+}
+
+a {
+    color: #257DCC;
+}
+a:hover {
+    color: #1E64A3;
+    text-decoration: none;
+}
+
+/* Overrides */
+
+.qty-indicator {
+    position: absolute;
+    top: 0;
+    right: -5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 18px;
+    height: 18px;
+    color: #fff;
+    font-size: 12px;
+    background: #ff912e;
+    border-radius: 100%;
+}
+
+.quick-view-overview .actual-price {
+    color: #ff912e;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+
+
+.btn-outline-orange {
+    color: #ff912e;
+    border-color: #ff912e;
+    letter-spacing: 0.05em;
+}
+  
+.btn-outline-orange {
+    color: #ff912e;
+    border-color: #ff912e;
+}
+  
+.btn-outline-orange:hover,
+.btn-outline-orange:active,
+.btn-outline-orange:focus,
+.btn-outline-orange.active {
+    background: #ff912e;
+    color: #ffffff;
+    border-color: #ff912e;  
+}
+
+.btn-orange {
+    color: #fff;
+    background-color: #ff912e;
+    border-color: #ff912e;
+    letter-spacing: 0.05em;
+    /* border-radius: 0; */
+}
+  
+.btn-orange:hover,
+.btn-orange:active,
+.btn-orange:focus,
+.btn-orange.active {
+    /* let's darken #004E64 a bit for hover effect */
+    background: #CC7425;
+    color: #ffffff;
+    border-color: #CC7425;
+}
+
+.bg-orange {
+    color: #fff !important;
+    background-color: #ff912e !important;
+    border-color: #ff912e !important;
+}
+
+.bg-orange:hover,
+.bg-orange:active,
+.bg-orange:focus,
+.bg-orange.active {
+    /* let's darken #004E64 a bit for hover effect */
+    background: #CC7425;
+    color: #ffffff;
+    border-color: #CC7425;
+}
+
+.btn-outline-orange {
+    color: #ff912e;
+    border-color: #ff912e;
+    letter-spacing: 0.05em;
+}
+  
+.btn-outline-orange {
+    color: #ff912e;
+    border-color: #ff912e;
+}
+  
+.btn-outline-orange:hover,
+.btn-outline-orange:active,
+.btn-outline-orange:focus,
+.btn-outline-orange.active {
+    background: #ff912e;
+    color: #ffffff;
+    border-color: #ff912e;  
+}
+
+.btn-curious-blue {
+    color: #fff;
+    background-color: #257DCC;
+    border-color: #257DCC;
+    letter-spacing: 0.05em;
+}
+  
+.btn-curious-blue:hover,
+.btn-curious-blue:active,
+.btn-curious-blue:focus,
+.btn-curious-blue.active {
+    /* let's darken #004E64 a bit for hover effect */
+    background: #1E64A3;
+    color: #ffffff;
+    border-color: #1E64A3;
+}
+
+.bg-curious-blue {
+    color: #fff !important;
+    background-color: #257DCC !important;
+    border-color: #257DCC !important;
+}
+
+.bg-curious-blue:hover,
+.bg-curious-blue:active,
+.bg-curious-blue:focus,
+.bg-curious-blue.active {
+    /* let's darken #004E64 a bit for hover effect */
+    background: #1E64A3;
+    color: #ffffff;
+    border-color: #1E64A3;
+}
+
+.btn-outline-curious-blue {
+    color: #257DCC;
+    border-color: #257DCC;
+    letter-spacing: 0.05em;
+}
+  
+.btn-outline-curious-blue {
+    color: #257DCC;
+    border-color: #257DCC;
+}
+  
+.btn-outline-curious-blue:hover,
+.btn-outline-curious-blue:active,
+.btn-outline-curious-blue:focus,
+.btn-outline-curious-blue.active {
+    background: #1E64A3;
+    color: #ffffff;
+    border-color: #1E64A3;  
+}
+
+.text-brown {
+    color: #543020;
+}
+
+.btn-brown {
+    color: #fff;
+    background-color: #543020;
+    border-color: #543020;
+    letter-spacing: 0.05em;
+}
+  
+.btn-brown:hover,
+.btn-brown:active,
+.btn-brown:focus,
+.btn-brown.active {
+    /* let's darken #004E64 a bit for hover effect */
+    background: #43261A;
+    color: #ffffff;
+    border-color: #43261A;
+}
+
+.bg-brown {
+    color: #fff !important;
+    background-color: #543020 !important;
+    border-color: #543020 !important;
+}
+
+.bg-brown:hover,
+.bg-brown:active,
+.bg-brown:focus,
+.bg-brown.active {
+    /* let's darken #004E64 a bit for hover effect */
+    background: #43261A;
+    color: #ffffff;
+    border-color: #43261A;
+}
+
+.btn-outline-brown {
+    color: #543020;
+    border-color: #543020;
+    letter-spacing: 0.05em;
+}
+  
+.btn-outline-brown:hover,
+.btn-outline-brown:active,
+.btn-outline-brown:focus,
+.btn-outline-brown.active {
+    background: #543020;
+    color: #ffffff;
+    border-color: #543020;  
+}
+
+#GrandCarousel .carousel-item .slide-title h2 {
+    font-size: 38px;
+    font-weight: 300;
+    color: #fff;
+}
+
+#GrandCarousel .carousel-item .slide-content {
+    font-size: 20px;
+    font-weight: 300;
+    color: #fff;
+    text-align: left;
+}
